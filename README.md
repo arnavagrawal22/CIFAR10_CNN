@@ -10,5 +10,5 @@ Convunational Neural Networks
 
 Test Accuracy of ~88%
 
-## This project in Tensorflow
+## This project is in Tensorflow
 
